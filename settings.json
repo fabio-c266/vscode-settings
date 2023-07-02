@@ -1,0 +1,52 @@
+{
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.untitled.hint": "hidden",
+
+  "material-icon-theme.activeIconPack": "nest",
+
+  "terminal.integrated.fontFamily": "SF Pro",
+  "terminal.integrated.fontSize": 14,
+
+  "editor.fontSize": 16,
+  "editor.fontFamily": "SF Pro",
+  "editor.fontLigatures": true,
+  "editor.parameterHints.enabled": false,
+  "editor.renderLineHighlight": "gutter",
+  "editor.lineHeight": 26,
+  "editor.suggestSelection": "first",
+  "editor.tabSize": 2,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.minimap.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "[prisma]": {
+    "editor.formatOnSave": true
+  },
+  
+  "window.zoomLevel": 1,
+  "window.commandCenter": true,
+  
+  "javascript.suggest.autoImports": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.rulers": [
+    80,
+    120
+  ],
+  "extensions.ignoreRecommendations": true,
+  "explorer.compactFolders": false,
+  "git.openRepositoryInParentFolders": "always",
+
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "graphql"
+  ],
+  "tabnine.experimentalAutoImports": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "explorer.confirmDragAndDrop": false,
+  "discord.detailsEditing": "Editing {dir_name}/{file_name}"
+}
